@@ -1,5 +1,6 @@
 # Fuzzer
 Simple fuzzer for stack based buffer overflows - written for OSCP prep
+
 usage: fuzzer.py [-h] target ip target port command
 
 Simple fuzzer for stack based buffer overflows.
