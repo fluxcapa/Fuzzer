@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # Quick Fuzzer with pattern_create and pattern_offset
+# $python3 fuzzer.py 10.10.111.82 1337 'OVERFLOW1 '
 
 import sys, socket, argparse, subprocess
 from time import sleep
